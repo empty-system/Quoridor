@@ -662,7 +662,7 @@ if __name__ == "__main__":
  / _` | | | |/ _ \| '__| |/ _` |/ _ \| '__|
 | (_| | |_| | (_) | |  | | (_| | (_) | |   
  \__, |\__,_|\___/|_|  |_|\__,_|\___/|_|   
-    |_|                    {Color.magenta}by @bug$bunny{Color.end}
+    |_|                    {Color.magenta}by @empty{Color.end}
 """)
     print(f"""
 {Color.red}This game has been created for a school project in python
