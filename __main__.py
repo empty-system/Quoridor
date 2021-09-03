@@ -8,7 +8,6 @@ from datetime import datetime
 from tkinter import Tk, Label
 from itertools import count
 import winsound
-import subprocess
 from PIL import Image, ImageTk
 
 
